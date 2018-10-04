@@ -8,28 +8,28 @@
 
 @font-face {
     font-family: 'Palemonas MUFI';
-    src: url('../includes/PalemMUFI-reg.ttf');
+    src: url('PalemMUFI-reg.ttf');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Palemonas MUFI';
-    src: url('../includes/PalemMUFI-bd.ttf');
+    src: url('PalemMUFI-bd.ttf');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Palemonas MUFI';
-    src: url('../includes/PalemMUFI-it.ttf');
+    src: url('PalemMUFI-it.ttf');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Palemonas MUFI';
-    src: url('../includes/PalemMUFI-bi.ttf');
+    src: url('PalemMUFI-bi.ttf');
     font-weight: 900;
     font-style: italic;
 }
